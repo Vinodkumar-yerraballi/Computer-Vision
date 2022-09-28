@@ -1,5 +1,4 @@
 import re
-from cv2 import threshold
 from matplotlib import image
 from matplotlib.pyplot import gray
 import streamlit as st
